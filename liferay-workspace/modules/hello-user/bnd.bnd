@@ -1,0 +1,4 @@
+Bundle-Name: hello-user
+Bundle-SymbolicName: hello.user
+Bundle-Version: 1.0.0
+Export-Package: hello.user.constants
